@@ -1,0 +1,103 @@
+Incidence Rate Report for Florida by County
+
+"Lung & Bronchus (All Stages^), 2017-2021"
+
+"White Non-Hispanic, Both Sexes, All Ages"
+
+Sorted by Ruralurban
+
+County,FIPS,2023 Rural-Urban Continuum Codes([rural urban note]),"Age-Adjusted Incidence Rate([rate note]) - cases per 100,000","Lower 95% Confidence Interval","Upper 95% Confidence Interval","CI*Rank([rank note])","Lower CI (CI*Rank)","Upper CI (CI*Rank)",Average Annual Count,Recent Trend,"Recent 5-Year Trend ([trend note]) in Incidence Rates","Lower 95% Confidence Interval","Upper 95% Confidence Interval"
+"Florida(6)",12000,N/A,61.7 ,61.2, 62.2,N/A , N/A , N/A,14066,falling,-3.2 ,-4.8, -1.8
+"US (SEER+NPCR) &sect; (1)",00000,N/A,57.5 ,57.3, 57.6,N/A , N/A , N/A,173659,falling,-3.4 ,-4.4, -2.8
+"Alachua County(6)",12001,Urban,52.4 ,48.1, 57,60 , 47 , 66,116,falling,-3.0 ,-4.4, -1.6
+"Baker County(6)",12003,Urban,77.8 ,63.8, 94.1,17 , 3 , 51,22,stable,-1.6 ,-5.0, 1.9
+"Bay County(6)",12005,Urban,65.3 ,60.5, 70.4,41 , 24 , 50,143,falling,-4.0 ,-9.6, -2.4
+"Brevard County(6)",12009,Urban,67.6 ,65.1, 70.2,33 , 26 , 45,599,falling,-1.5 ,-2.0, -1.0
+"Broward County(6)",12011,Urban,53.3 ,51.6, 55.2,59 , 50 , 64,717,falling,-2.2 ,-2.7, -1.7
+"Charlotte County(6)",12015,Urban,63.1 ,59.2, 67.4,46 , 30 , 52,273,falling,-1.0 ,-1.8, -0.1
+"Citrus County(6)",12017,Urban,78.8 ,74.1, 84,15 , 8 , 29,258,stable,-0.4 ,-1.4, 0.6
+"Clay County(6)",12019,Urban,76.3 ,71.2, 81.7,20 , 9 , 34,176,falling,-1.5 ,-2.3, -0.5
+"Collier County(6)",12021,Urban,38.5 ,35.9, 41.3,67 , 65 , 67,253,falling,-3.1 ,-4.0, -2.2
+"Duval County(6)",12031,Urban,74 ,71.2, 76.9,27 , 14 , 33,554,falling,-2.1 ,-4.8, -1.5
+"Escambia County(6)",12033,Urban,77.1 ,72.8, 81.6,18 , 9 , 32,249,falling,-1.2 ,-2.1, -0.3
+"Flagler County(6)",12035,Urban,65.8 ,60.5, 71.6,39 , 23 , 50,130,falling,-1.4 ,-2.2, -0.6
+"Gadsden County(6)",12039,Urban,66.6 ,53.9, 82.9,37 , 8 , 65,21,stable,-1.7 ,-3.7, 0.3
+"Gilchrist County(6)",12041,Urban,84.5 ,69.5, 102.6,9 , 2 , 47,23,stable,-0.6 ,-3.3, 2.4
+"Hernando County(6)",12053,Urban,78.5 ,74, 83.3,16 , 7 , 30,251,falling,-1.0 ,-1.7, -0.2
+"Highlands County(6)",12055,Urban,67.4 ,61.3, 74.2,35 , 17 , 50,127,stable,-1.2 ,-2.4, 0.0
+"Hillsborough County(6)",12057,Urban,64.7 ,62.5, 67,43 , 31 , 48,668,falling,-2.5 ,-9.9, -1.1
+"Indian River County(6)",12061,Urban,66.7 ,62.1, 71.6,36 , 23 , 49,207,stable,-0.8 ,-1.7, 0.2
+"Jefferson County(6)",12065,Urban,47.4 ,33.5, 67.3,65 , 24 , 67,9,stable,-2.3 ,-6.0, 1.5
+"Lake County(6)",12069,Urban,65.7 ,62.6, 69,40 , 28 , 48,383,falling,-1.7 ,-2.3, -1.1
+"Lee County(6)",12071,Urban,55 ,52.9, 57.1,56 , 47 , 62,684,falling,-1.7 ,-2.3, -1.1
+"Leon County(6)",12073,Urban,52.3 ,48, 56.9,61 , 46 , 66,115,falling,-2.0 ,-3.5, -0.6
+"Levy County(6)",12075,Urban,84.4 ,74.6, 95.5,10 , 3 , 32,57,falling,-3.1 ,-12.7, -1.3
+"Manatee County(6)",12081,Urban,51.8 ,49.2, 54.5,62 , 51 , 66,351,falling,-2.6 ,-3.4, -1.8
+"Marion County(6)",12083,Urban,76.1 ,72.7, 79.7,21 , 11 , 31,453,falling,-1.4 ,-2.0, -0.7
+"Martin County(6)",12085,Urban,56.8 ,52.9, 61.1,51 , 43 , 63,182,falling,-1.5 ,-2.5, -0.5
+"Miami-Dade County(6)",12086,Urban,50.6 ,47.9, 53.5,63 , 53 , 66,258,falling,-1.7 ,-2.5, -0.9
+"Nassau County(6)",12089,Urban,73 ,66.5, 80.2,28 , 10 , 45,98,falling,-1.8 ,-3.2, -0.3
+"Okaloosa County(6)",12091,Urban,66.3 ,61.5, 71.4,38 , 23 , 50,147,falling,-2.1 ,-3.0, -1.2
+"Orange County(6)",12095,Urban,55.2 ,52.8, 57.8,54 , 46 , 62,391,falling,-2.7 ,-3.3, -2.1
+"Osceola County(6)",12097,Urban,67.5 ,62.1, 73.4,34 , 19 , 49,117,falling,-1.6 ,-2.6, -0.5
+"Palm Beach County(6)",12099,Urban,49.4 ,47.9, 50.9,64 , 59 , 66,979,falling,-5.7 ,-8.1, -2.9
+"Pasco County(6)",12101,Urban,74.2 ,71.4, 77.1,26 , 14 , 33,567,falling,-1.4 ,-2.0, -0.8
+"Pinellas County(6)",12103,Urban,63.2 ,61.3, 65.1,45 , 36 , 49,954,falling,-1.7 ,-2.1, -1.4
+"Polk County(6)",12105,Urban,70.7 ,68, 73.5,31 , 20 , 38,562,stable,-0.9 ,-2.0, 1.0
+"Santa Rosa County(6)",12113,Urban,75.1 ,69.9, 80.7,23 , 10 , 37,159,falling,-1.3 ,-2.3, -0.3
+"Sarasota County(6)",12115,Urban,53.8 ,51.5, 56.3,58 , 48 , 64,525,falling,-5.4 ,-10.3, -1.2
+"Seminole County(6)",12117,Urban,55.5 ,52.3, 58.9,53 , 46 , 63,232,falling,-2.2 ,-3.3, -1.2
+"St. Johns County(6)",12109,Urban,54.2 ,50.8, 57.8,57 , 47 , 65,197,falling,-2.1 ,-2.6, -1.5
+"St. Lucie County(6)",12111,Urban,69.6 ,65.8, 73.6,32 , 20 , 44,289,falling,-0.7 ,-1.3, -0.1
+"Sumter County(6)",12119,Urban,55.2 ,49.8, 61.5,55 , 41 , 66,211,falling,-9.5 ,-15.1, -2.9
+"Volusia County(6)",12127,Urban,74.9 ,72.2, 77.8,24 , 13 , 32,618,falling,-1.1 ,-1.8, -0.5
+"Wakulla County(6)",12129,Urban,80 ,67.2, 94.8,13 , 3 , 47,30,stable,-0.3 ,-2.6, 2.2
+"Walton County(6)",12131,Urban,56.6 ,50.1, 64,52 , 35 , 66,58,falling,-2.2 ,-3.9, -0.3
+"Washington County(6)",12133,Urban,62.6 ,50.4, 77.4,47 , 9 , 66,19,falling,-13.8 ,-25.4, -4.8
+"Bradford County(6)",12007,Rural,82.3 ,68.4, 98.6,12 , 2 , 47,26,stable,-0.3 ,-2.6, 2.1
+"Calhoun County(6)",12013,Rural,85.2 ,66.3, 108.7,8 , 2 , 51,14,stable,-0.7 ,-2.8, 1.7
+"Columbia County(6)",12023,Rural,84.2 ,75.4, 94,11 , 4 , 31,70,stable,-1.0 ,-2.9, 1.0
+"DeSoto County(6)",12027,Rural,70.9 ,58.9, 85.5,30 , 6 , 60,30,stable,1.2 ,-1.0, 3.5
+"Dixie County(6)",12029,Rural,93 ,76.7, 112.7,4 , 2 , 36,25,stable,-0.6 ,-2.0, 0.9
+"Franklin County(6)",12037,Rural,58.8 ,44.5, 78.2,49 , 10 , 67,12,falling,-3.3 ,-5.5, -1.1
+"Glades County(6)",12043,Rural,72.5 ,56.3, 97.3,29 , 3 , 65,14,stable,-1.4 ,-4.7, 1.9
+"Gulf County(6)",12045,Rural,60.3 ,46.6, 78,48 , 9 , 67,14,falling,-6.0 ,-18.4, -2.3
+"Hamilton County(6)",12047,Rural,79.8 ,59.8, 106.2,14 , 2 , 65,11,stable,1.0 ,-2.2, 4.8
+"Hardee County(6)",12049,Rural,64.8 ,49.8, 84,42 , 6 , 66,14,stable,-0.7 ,-3.7, 2.3
+"Hendry County(6)",12051,Rural,77 ,61.2, 96.6,19 , 2 , 62,17,stable,-1.3 ,-3.4, 0.6
+"Holmes County(6)",12059,Rural,63.4 ,50.4, 79.2,44 , 9 , 66,17,stable,2.0 ,-1.4, 6.0
+"Jackson County(6)",12063,Rural,57.9 ,49.2, 68.1,50 , 27 , 66,33,stable,-0.3 ,-2.5, 2.1
+"Lafayette County(6)",12067,Rural,74.5 ,51.6, 106.3,25 , 2 , 67,7,stable,-0.5 ,-4.9, 4.3
+"Liberty County(6)",12077,Rural,89 ,61.5, 126.1,6 , 1 , 65,7,stable,-2.3 ,-6.2, 1.7
+"Madison County(6)",12079,Rural,75.9 ,58.4, 98.5,22 , 2 , 64,14,stable,0.2 ,-3.8, 4.5
+"Monroe County(6)",12087,Rural,46.6 ,41.1, 53,66 , 51 , 67,55,falling,-3.4 ,-4.7, -2.2
+"Okeechobee County(6)",12093,Rural,92.6 ,80.2, 106.9,5 , 2 , 28,44,stable,0.4 ,-1.3, 2.2
+"Putnam County(6)",12107,Rural,102.2 ,93.2, 112.1,3 , 2 , 9,105,stable,-0.5 ,-1.7, 0.7
+"Suwannee County(6)",12121,Rural,85.3 ,74.5, 97.6,7 , 2 , 34,49,stable,-0.7 ,-2.0, 0.5
+"Taylor County(6)",12123,Rural,104.4 ,87.1, 124.6,2 , 1 , 18,28,stable,11.0 ,-0.3, 19.4
+"Union County(6)",12125,Rural,156.6 ,129.8, 187.7,1 , 1 , 2,25,stable,-2.3 ,-4.6, 0.0
+
+Created by statecancerprofiles.cancer.gov on 02/12/2026 4:48 pm.
+
+State Cancer Registries may provide more current or more local data.
+
+
+Trend
+   Rising when 95% confidence interval of average annual percent change is above 0.
+   Stable when 95% confidence interval of average annual percent change includes 0.
+   Falling when 95% confidence interval of average annual percent change is below 0.
+
+"[rate note] Incidence rates (cases per 100,000 population per year) are age-adjusted to the 2000 US standard population [http://www.seer.cancer.gov/stdpopulations/stdpop.19ages.html] (19 age groups: <1, 1-4, 5-9, ... , 80-84, 85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Rates calculated using SEER*Stat. Population counts for denominators are based on Census populations as modified [https://seer.cancer.gov/popdata/] by NCI. The US Population Data File [https://seer.cancer.gov/popdata/] is used for SEER and NPCR incidence rates."
+"[trend note] Incidence data come from different sources. The Average Annual Percent Change (AAPC) is based on the APCs calculated by Joinpoint. Due to data availability issues, the time period used in the calculation of the joinpoint regression model may differ [ https://statecancerprofiles.cancer.gov/historicaltrend/differences.html ] for selected counties."
+
+Rates and trends are computed using different standards for malignancy. For more information see malignant.html.
+
+"^ All Stages refers to any stage in the Surveillance, Epidemiology, and End Results (SEER) Summary/Historic Combined Summary Stage (2004+) [ https://seer.cancer.gov/tools/ssm/ ]."
+"[rank note]Results presented with the CI*Rank statistics help show the usefulness of ranks. For example, ranks for relatively rare diseases or less populated areas may be essentially meaningless because of their large variability, but ranks for more common diseases in densely populated regions can be very useful. More information about methodology can be found on the CI*Rank website."
+[rural urban note] Rural-Urban Continuum Codes provided by the USDA [ https://www.ers.usda.gov/data-products/rural-urban-continuum-codes ].
+"1 Source: National Program of Cancer Registries [ https://www.cdc.gov/cancer/npcr/index.htm ] and Surveillance, Epidemiology, and End Results [ http://seer.cancer.gov ] SEER*Stat Database - United States Department of Health and Human Services, Centers for Disease Control and Prevention and National Cancer Institute. Based on the 2023 submission."
+"6 Source: National Program of Cancer Registries SEER*Stat Database - United States Department of Health and Human Services, Centers for Disease Control and Prevention (based on the 2023 submission).  [ https://www.cdc.gov/cancer/npcr/index.htm ]"
+"8 Source: Incidence data provided by the SEER Program. ( http://seer.cancer.gov ) AAPCs are calculated by the Joinpoint Regression Program ( https://surveillance.cancer.gov/joinpoint/ ) and are based on APCs. Data are age-adjusted to the 2000 US standard population ( http://www.seer.cancer.gov/stdpopulations/single_age.html ) (19 age groups: <1, 1-4, 5-9, ... , 80-84,85+). Rates are for invasive cancer only (except for bladder cancer which is invasive and in situ) or unless otherwise specified. Population counts for denominators are based on Census populations as modified by NCI. The US Population Data ( http://seer.cancer.gov/popdata/ ) File is used with SEER November 2023 data."
+
+Data for the United States does not include data from Indiana.
+Data for the United States does not include Puerto Rico.
